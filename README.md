@@ -5,6 +5,9 @@
 [![Download](https://img.shields.io/github/downloads/Dr-TSNG/Hide-My-Applist/total)](https://github.com/Dr-TSNG/Hide-My-Applist/releases/latest)
 [![Channel](https://img.shields.io/badge/Telegram-Channel-blue.svg?logo=telegram)](https://t.me/HideMyApplist)
 [![License](https://img.shields.io/github/license/Dr-TSNG/Hide-My-Applist?label=License)](https://choosealicense.com/licenses/gpl-3.0/)
+
+![banner](https://github.com/Dr-TSNG/Hide-My-Applist/blob/master/banner.png)
+
 ## About this module  
 Although It is incorrect to detect specific app installation, yet not every app using root provides random packagename support.  
 In this case, detected apps that use root (such as Fake Location and Storage Isolation) is equal to detected root itself.  
